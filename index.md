@@ -1,6 +1,6 @@
-I am an Applied Scientist at Prime Video working on applying automated reasoning techniques at scale. Currently, I am working on developing a code analyzer for Typescript programs based on abstract interpretation.
+I am an Applied Scientist at Prime Video working on applying automated reasoning techniques. Currently, I am working on developing a code analyzer for Typescript programs based on abstract interpretation.
 
-<!-- During my PhD, I was working on developing methods for automatic verification of synchronous fault-tolerant distributed algorithms. Prior to this, I obtained a MSc in Computer Science form the European Master Program in Computational Logic.\ -->
+During my PhD at [TU Wien](https://forsyte.at/), I was working on developing methods for automatic verification of synchronous fault-tolerant distributed algorithms. From 2020 to 2021, I was a research engineer at [Informal Systems](https://informal.systems/), working on formally specifying and verifying blokchain protocols using TLA+. Prior to my PhD, I obtained a MSc in Computer Science form the European Master Program in Computational Logic.
 
 ## Recent News
 
